@@ -10,15 +10,15 @@
   "coreVersion": "1.0.0",
   "uiVersion": "1.0.0",
   "brandVersion": "1.0.0",
-  "generatedAt": "2026-11-25T08:20:36.275Z",
-  "pageCount": 28,
+  "generatedAt": "2026-11-25T09:29:39.800Z",
+  "pageCount": 34,
   "kinds": {
     "home": 2,
     "catalog": 10,
     "search": 2,
     "about": 2,
     "contribute": 2,
-    "detail": 10
+    "detail": 16
   },
   "entryCounts": {
     "craft": {
@@ -42,7 +42,7 @@
       "en": 12
     }
   },
-  "searchRecords": 10,
+  "searchRecords": 16,
   "issues": {
     "errors": 0,
     "warnings": 0,
