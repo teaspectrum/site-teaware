@@ -1,0 +1,51 @@
+{
+  "site": "teaware",
+  "name": {
+    "zh": "茶器",
+    "en": "Teaware"
+  },
+  "domain": "teaware.chapu.org",
+  "contentMode": "production",
+  "deployMode": "production",
+  "coreVersion": "1.0.0",
+  "uiVersion": "1.0.0",
+  "brandVersion": "1.0.0",
+  "generatedAt": "2026-11-25T07:14:04.143Z",
+  "pageCount": 28,
+  "kinds": {
+    "home": 2,
+    "catalog": 10,
+    "search": 2,
+    "about": 2,
+    "contribute": 2,
+    "detail": 10
+  },
+  "entryCounts": {
+    "craft": {
+      "zh": 4,
+      "en": 4
+    },
+    "guide": {
+      "zh": 2,
+      "en": 2
+    },
+    "material": {
+      "zh": 7,
+      "en": 7
+    },
+    "usage": {
+      "zh": 5,
+      "en": 5
+    },
+    "vessel": {
+      "zh": 12,
+      "en": 12
+    }
+  },
+  "searchRecords": 10,
+  "issues": {
+    "errors": 0,
+    "warnings": 0,
+    "items": []
+  }
+}

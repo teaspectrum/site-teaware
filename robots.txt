@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://teaware.chapu.org/sitemap.xml
