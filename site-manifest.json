@@ -6,19 +6,19 @@
   },
   "domain": "teaware.chapu.org",
   "contentMode": "production",
-  "deployMode": "production",
+  "deployMode": "pages",
   "coreVersion": "1.0.0",
   "uiVersion": "1.0.0",
   "brandVersion": "1.0.0",
-  "generatedAt": "2026-11-25T09:29:39.800Z",
-  "pageCount": 34,
+  "generatedAt": "2026-11-26T00:34:48.237Z",
+  "pageCount": 98,
   "kinds": {
     "home": 2,
     "catalog": 10,
     "search": 2,
     "about": 2,
     "contribute": 2,
-    "detail": 16
+    "detail": 80
   },
   "entryCounts": {
     "craft": {
@@ -38,11 +38,11 @@
       "en": 5
     },
     "vessel": {
-      "zh": 12,
-      "en": 12
+      "zh": 22,
+      "en": 22
     }
   },
-  "searchRecords": 16,
+  "searchRecords": 80,
   "issues": {
     "errors": 0,
     "warnings": 0,
